@@ -22,11 +22,11 @@ Speichere deine Vodafone-Speedtest-Historie als `.html`-Datei:
 
 ### 2. Tool herunterladen
 
-* Lade die neueste Version von GitHub herunter: [Releases](https://github.com/deinname/speedtest-export/releases)
+* Lade die neueste Version von GitHub herunter: [Releases](https://github.com/patmllr/vodafone-speedtest-export/releases/tag/v1.0.0)
 * Alternativ: Repository klonen oder ZIP herunterladen:
 
   ```bash
-  git clone https://github.com/deinname/speedtest-export.git
+  git clone https://github.com/patmllr/vodafone-speedtest-export.git
   ```
 
 ### 2. `launcher.exe` starten
