@@ -133,12 +133,6 @@ Falls beim Start oder der Ausführung etwas schiefläuft, erstellt `launcher.py`
 
 ---
 
-## 👁 Autoren & Dank
-
-* Idee & Umsetzung: \[Patrick Müller]
-
----
-
 ## 📁 Lizenz
 
 Dieses Projekt steht unter der MIT-Lizenz.
