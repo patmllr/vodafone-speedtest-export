@@ -1,0 +1,28 @@
+# --- Python & PyInstaller ---
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+.env/
+
+# Build-Artefakte (außer dist/*.exe!)
+build/
+*.spec
+
+# Logs & Debug
+*.log
+
+# Ausgabedateien (z. B. CSVs aus Export)
+*.csv
+
+# VSCode
+.vscode/
+
+# Testdaten & HTML-Dumps
+/test/speedtest_files/
+/test/*.html
+/test/*.csv
+
+# Systemdateien
+.DS_Store
+Thumbs.db
